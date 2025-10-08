@@ -44,3 +44,4 @@ describe('Pruebas de regresión de búsqueda', function() {
     });
 });
 
+//QA
